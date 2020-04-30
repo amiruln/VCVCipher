@@ -1,2 +1,3 @@
 # VCVCipher
- Cryptography; Simple hybrid encyrption (Vigenere+Caesar+Vigenere)
+ Cryptography: Simple hybrid encyrption (Vigenere+Caesar+Vigenere)
+ Using PHP, HTML, CSS
