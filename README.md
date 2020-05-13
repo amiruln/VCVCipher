@@ -1,4 +1,4 @@
 # VCVCipher
- Cryptography: Simple hybrid encyrption (Vigenere+Caesar+Vigenere)
+ Cryptography: Simple hybrid encryption (Vigenere+Caesar+Vigenere)
  
  Using PHP, HTML, CSS
